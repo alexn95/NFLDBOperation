@@ -14,7 +14,7 @@ import java.util.ArrayList;
  */
 public class Date {
 
-    //Сдвгает даты в таблицу Weeks на shift дней
+    //Сдвгает даты из таблицы Weeks на shift дней
     public static ArrayList<Week> moveTo(Integer shift){
         DateTimeFormatter format = DateTimeFormat.forPattern("YYYY-MM-dd'T'HH:mm:ssZZ");
         BaseModel db = JsonUtil.parseJson();
