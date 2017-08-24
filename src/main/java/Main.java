@@ -19,11 +19,11 @@ public class Main{
 
         //создает файл resultWeeks.json
         //сдвиг даты на 10 дней вперед в файле resultWeeks.json
-        JsonUtil.writeJson(Date.moveTo(10), "resultWeeks");
+        JsonUtil.writeJson(Date.moveTo(8), "resultWeeks.json");
 
         //создает файл resultGames.json
         //устанавливает результаты игр на первые 5 недель в файле resultGames.json
-        JsonUtil.writeJson(Games.setResult(5), "resultGames");
+        JsonUtil.writeJson(Games.setResult(5), "resultGames.json");
 
         //создает файл resultFile.json c базой данных, в которую добавлены пики и тайбрейкеры
         // на указанное количесвто недель для всех юзеров из бд
