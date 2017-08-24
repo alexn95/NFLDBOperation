@@ -1,0 +1,3888 @@
+{
+  "games": [
+    null,
+    {
+      "game_id": "1",
+      "guests_score": 46,
+      "guests_team_id": "16",
+      "home_score": 25,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "2",
+      "guests_score": 9,
+      "guests_team_id": "24",
+      "home_score": 7,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "3",
+      "guests_score": 34,
+      "guests_team_id": "2",
+      "home_score": 40,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "4",
+      "guests_score": 43,
+      "guests_team_id": "3",
+      "home_score": 32,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "5",
+      "guests_score": 26,
+      "guests_team_id": "27",
+      "home_score": 20,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "6",
+      "guests_score": 32,
+      "guests_team_id": "1",
+      "home_score": 25,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "7",
+      "guests_score": 11,
+      "guests_team_id": "15",
+      "home_score": 11,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "8",
+      "guests_score": 23,
+      "guests_team_id": "30",
+      "home_score": 34,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "9",
+      "guests_score": 16,
+      "guests_team_id": "25",
+      "home_score": 25,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "10",
+      "guests_score": 24,
+      "guests_team_id": "26",
+      "home_score": 41,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "11",
+      "guests_score": 24,
+      "guests_team_id": "14",
+      "home_score": 7,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "12",
+      "guests_score": 33,
+      "guests_team_id": "29",
+      "home_score": 40,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "13",
+      "guests_score": 26,
+      "guests_team_id": "5",
+      "home_score": 21,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "14",
+      "guests_score": 27,
+      "guests_team_id": "23",
+      "home_score": 36,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "15",
+      "guests_score": 26,
+      "guests_team_id": "22",
+      "home_score": 17,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "1"
+    },
+    {
+      "game_id": "16",
+      "guests_score": 26,
+      "guests_team_id": "17",
+      "home_score": 35,
+      "home_team_id": "10",
+      "is_tie_breaker": true,
+      "week_id": "1"
+    },
+    {
+      "game_id": "17",
+      "guests_score": 35,
+      "guests_team_id": "13",
+      "home_score": 56,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "18",
+      "guests_score": 35,
+      "guests_team_id": "8",
+      "home_score": 25,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "19",
+      "guests_score": 32,
+      "guests_team_id": "4",
+      "home_score": 44,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "20",
+      "guests_score": 43,
+      "guests_team_id": "1",
+      "home_score": 34,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "21",
+      "guests_score": 34,
+      "guests_team_id": "31",
+      "home_score": 38,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "22",
+      "guests_score": 34,
+      "guests_team_id": "26",
+      "home_score": 15,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "23",
+      "guests_score": 12,
+      "guests_team_id": "21",
+      "home_score": 34,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "24",
+      "guests_score": 13,
+      "guests_team_id": "20",
+      "home_score": 32,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "25",
+      "guests_score": 43,
+      "guests_team_id": "6",
+      "home_score": 29,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "26",
+      "guests_score": 33,
+      "guests_team_id": "19",
+      "home_score": 22,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "27",
+      "guests_score": 23,
+      "guests_team_id": "24",
+      "home_score": 32,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "28",
+      "guests_score": 13,
+      "guests_team_id": "9",
+      "home_score": 12,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "29",
+      "guests_score": 31,
+      "guests_team_id": "32",
+      "home_score": 35,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "30",
+      "guests_score": 23,
+      "guests_team_id": "28",
+      "home_score": 12,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "31",
+      "guests_score": 34,
+      "guests_team_id": "12",
+      "home_score": 23,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "2"
+    },
+    {
+      "game_id": "32",
+      "guests_score": 18,
+      "guests_team_id": "11",
+      "home_score": 25,
+      "home_team_id": "23",
+      "is_tie_breaker": true,
+      "week_id": "2"
+    },
+    {
+      "game_id": "33",
+      "guests_score": 26,
+      "guests_team_id": "18",
+      "home_score": 26,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "34",
+      "guests_score": 23,
+      "guests_team_id": "3",
+      "home_score": 32,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "35",
+      "guests_score": 1,
+      "guests_team_id": "10",
+      "home_score": 1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "36",
+      "guests_score": 22,
+      "guests_team_id": "22",
+      "home_score": 34,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "37",
+      "guests_score": 34,
+      "guests_team_id": "27",
+      "home_score": 10,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "38",
+      "guests_score": 33,
+      "guests_team_id": "2",
+      "home_score": 23,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "39",
+      "guests_score": 32,
+      "guests_team_id": "8",
+      "home_score": 34,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "40",
+      "guests_score": 34,
+      "guests_team_id": "30",
+      "home_score": 45,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "41",
+      "guests_score": 15,
+      "guests_team_id": "13",
+      "home_score": 33,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "42",
+      "guests_score": 33,
+      "guests_team_id": "19",
+      "home_score": 22,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "43",
+      "guests_score": 34,
+      "guests_team_id": "23",
+      "home_score": 19,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "44",
+      "guests_score": 28,
+      "guests_team_id": "29",
+      "home_score": 43,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "45",
+      "guests_score": 0,
+      "guests_team_id": "7",
+      "home_score": 23,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "46",
+      "guests_score": 22,
+      "guests_team_id": "16",
+      "home_score": 21,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "47",
+      "guests_score": 11,
+      "guests_team_id": "25",
+      "home_score": 22,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "3"
+    },
+    {
+      "game_id": "48",
+      "guests_score": 32,
+      "guests_team_id": "9",
+      "home_score": 21,
+      "home_team_id": "1",
+      "is_tie_breaker": true,
+      "week_id": "3"
+    },
+    {
+      "game_id": "49",
+      "guests_score": 32,
+      "guests_team_id": "6",
+      "home_score": 22,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "50",
+      "guests_score": 4,
+      "guests_team_id": "22",
+      "home_score": 4,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "51",
+      "guests_score": 43,
+      "guests_team_id": "4",
+      "home_score": 3,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "52",
+      "guests_score": 55,
+      "guests_team_id": "27",
+      "home_score": 4,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "53",
+      "guests_score": 21,
+      "guests_team_id": "7",
+      "home_score": 34,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "54",
+      "guests_score": 56,
+      "guests_team_id": "18",
+      "home_score": 43,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "55",
+      "guests_score": 45,
+      "guests_team_id": "31",
+      "home_score": 23,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "56",
+      "guests_score": 44,
+      "guests_team_id": "11",
+      "home_score": 33,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "57",
+      "guests_score": 21,
+      "guests_team_id": "5",
+      "home_score": 32,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "58",
+      "guests_score": 34,
+      "guests_team_id": "15",
+      "home_score": 22,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "59",
+      "guests_score": 32,
+      "guests_team_id": "28",
+      "home_score": 34,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "60",
+      "guests_score": 44,
+      "guests_team_id": "26",
+      "home_score": 44,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "61",
+      "guests_score": 65,
+      "guests_team_id": "23",
+      "home_score": 45,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "62",
+      "guests_score": 44,
+      "guests_team_id": "25",
+      "home_score": 43,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "63",
+      "guests_score": 34,
+      "guests_team_id": "14",
+      "home_score": 22,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "4"
+    },
+    {
+      "game_id": "64",
+      "guests_score": 56,
+      "guests_team_id": "32",
+      "home_score": 56,
+      "home_team_id": "16",
+      "is_tie_breaker": true,
+      "week_id": "4"
+    },
+    {
+      "game_id": "65",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "66",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "67",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "68",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "69",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "70",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "71",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "72",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "73",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "74",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "75",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "76",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "77",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "5"
+    },
+    {
+      "game_id": "78",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": true,
+      "week_id": "5"
+    },
+    {
+      "game_id": "79",
+      "guests_score": -1,
+      "guests_team_id": "26",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "80",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "81",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "82",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "83",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "84",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "85",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "86",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "87",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "88",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "89",
+      "guests_score": -1,
+      "guests_team_id": "27",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "90",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "91",
+      "guests_score": -1,
+      "guests_team_id": "23",
+      "home_score": -1,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "6"
+    },
+    {
+      "game_id": "92",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": true,
+      "week_id": "6"
+    },
+    {
+      "game_id": "93",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "94",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "95",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "96",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "97",
+      "guests_score": -1,
+      "guests_team_id": "22",
+      "home_score": -1,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "98",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "99",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "100",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "101",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "102",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "103",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "104",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "105",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "106",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "7"
+    },
+    {
+      "game_id": "107",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": true,
+      "week_id": "7"
+    },
+    {
+      "game_id": "108",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "109",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "110",
+      "guests_score": -1,
+      "guests_team_id": "25",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "111",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "112",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "113",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "114",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "115",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "116",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "117",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "118",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "119",
+      "guests_score": -1,
+      "guests_team_id": "27",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "8"
+    },
+    {
+      "game_id": "120",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": true,
+      "week_id": "8"
+    },
+    {
+      "game_id": "121",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "122",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "123",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "124",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "125",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "126",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "127",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "128",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "129",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "130",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "131",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "132",
+      "guests_score": -1,
+      "guests_team_id": "25",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "9"
+    },
+    {
+      "game_id": "133",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "12",
+      "is_tie_breaker": true,
+      "week_id": "9"
+    },
+    {
+      "game_id": "134",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "135",
+      "guests_score": -1,
+      "guests_team_id": "22",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "136",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "137",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "138",
+      "guests_score": -1,
+      "guests_team_id": "27",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "139",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "140",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "141",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "142",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "143",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "144",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "145",
+      "guests_score": -1,
+      "guests_team_id": "23",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "146",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "10"
+    },
+    {
+      "game_id": "147",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": true,
+      "week_id": "10"
+    },
+    {
+      "game_id": "148",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "149",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "150",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "151",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "152",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "153",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "154",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "155",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "156",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "157",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "158",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "159",
+      "guests_score": -1,
+      "guests_team_id": "26",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "11"
+    },
+    {
+      "game_id": "160",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": true,
+      "week_id": "11"
+    },
+    {
+      "game_id": "161",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "162",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "163",
+      "guests_score": -1,
+      "guests_team_id": "23",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "164",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "165",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "166",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "167",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "168",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "169",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "170",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "171",
+      "guests_score": -1,
+      "guests_team_id": "22",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "172",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "173",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "174",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "175",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "12"
+    },
+    {
+      "game_id": "176",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": true,
+      "week_id": "12"
+    },
+    {
+      "game_id": "177",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "178",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "179",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "180",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "181",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "182",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "183",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "184",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "185",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "186",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "187",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "188",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "189",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "190",
+      "guests_score": -1,
+      "guests_team_id": "23",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "191",
+      "guests_score": -1,
+      "guests_team_id": "26",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "13"
+    },
+    {
+      "game_id": "192",
+      "guests_score": -1,
+      "guests_team_id": "27",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": true,
+      "week_id": "13"
+    },
+    {
+      "game_id": "193",
+      "guests_score": -1,
+      "guests_team_id": "22",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "194",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "195",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "196",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "197",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "198",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "199",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "200",
+      "guests_score": -1,
+      "guests_team_id": "25",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "201",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "202",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "203",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "204",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "205",
+      "guests_score": -1,
+      "guests_team_id": "26",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "206",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "207",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "14"
+    },
+    {
+      "game_id": "208",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": true,
+      "week_id": "14"
+    },
+    {
+      "game_id": "209",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "210",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "211",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "212",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "4",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "213",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "214",
+      "guests_score": -1,
+      "guests_team_id": "3",
+      "home_score": -1,
+      "home_team_id": "8",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "215",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "15",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "216",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "217",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "218",
+      "guests_score": -1,
+      "guests_team_id": "26",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "219",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "220",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "221",
+      "guests_score": -1,
+      "guests_team_id": "21",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "222",
+      "guests_score": -1,
+      "guests_team_id": "31",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "223",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "25",
+      "is_tie_breaker": false,
+      "week_id": "15"
+    },
+    {
+      "game_id": "224",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": true,
+      "week_id": "15"
+    },
+    {
+      "game_id": "225",
+      "guests_score": -1,
+      "guests_team_id": "14",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "226",
+      "guests_score": -1,
+      "guests_team_id": "20",
+      "home_score": -1,
+      "home_team_id": "12",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "227",
+      "guests_score": -1,
+      "guests_team_id": "30",
+      "home_score": -1,
+      "home_team_id": "5",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "228",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "6",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "229",
+      "guests_score": -1,
+      "guests_team_id": "11",
+      "home_score": -1,
+      "home_team_id": "7",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "230",
+      "guests_score": -1,
+      "guests_team_id": "19",
+      "home_score": -1,
+      "home_team_id": "16",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "231",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "232",
+      "guests_score": -1,
+      "guests_team_id": "2",
+      "home_score": -1,
+      "home_team_id": "22",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "233",
+      "guests_score": -1,
+      "guests_team_id": "17",
+      "home_score": -1,
+      "home_team_id": "24",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "234",
+      "guests_score": -1,
+      "guests_team_id": "18",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "235",
+      "guests_score": -1,
+      "guests_team_id": "10",
+      "home_score": -1,
+      "home_team_id": "32",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "236",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "28",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "237",
+      "guests_score": -1,
+      "guests_team_id": "23",
+      "home_score": -1,
+      "home_team_id": "1",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "238",
+      "guests_score": -1,
+      "guests_team_id": "29",
+      "home_score": -1,
+      "home_team_id": "9",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "239",
+      "guests_score": -1,
+      "guests_team_id": "27",
+      "home_score": -1,
+      "home_team_id": "13",
+      "is_tie_breaker": false,
+      "week_id": "16"
+    },
+    {
+      "game_id": "240",
+      "guests_score": -1,
+      "guests_team_id": "25",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": true,
+      "week_id": "16"
+    },
+    {
+      "game_id": "241",
+      "guests_score": -1,
+      "guests_team_id": "5",
+      "home_score": -1,
+      "home_team_id": "2",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "242",
+      "guests_score": -1,
+      "guests_team_id": "7",
+      "home_score": -1,
+      "home_team_id": "3",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "243",
+      "guests_score": -1,
+      "guests_team_id": "12",
+      "home_score": -1,
+      "home_team_id": "11",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "244",
+      "guests_score": -1,
+      "guests_team_id": "13",
+      "home_score": -1,
+      "home_team_id": "14",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "245",
+      "guests_score": -1,
+      "guests_team_id": "4",
+      "home_score": -1,
+      "home_team_id": "19",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "246",
+      "guests_score": -1,
+      "guests_team_id": "6",
+      "home_score": -1,
+      "home_team_id": "20",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "247",
+      "guests_score": -1,
+      "guests_team_id": "24",
+      "home_score": -1,
+      "home_team_id": "21",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "248",
+      "guests_score": -1,
+      "guests_team_id": "32",
+      "home_score": -1,
+      "home_team_id": "23",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "249",
+      "guests_score": -1,
+      "guests_team_id": "9",
+      "home_score": -1,
+      "home_team_id": "26",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "250",
+      "guests_score": -1,
+      "guests_team_id": "8",
+      "home_score": -1,
+      "home_team_id": "27",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "251",
+      "guests_score": -1,
+      "guests_team_id": "22",
+      "home_score": -1,
+      "home_team_id": "30",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "252",
+      "guests_score": -1,
+      "guests_team_id": "15",
+      "home_score": -1,
+      "home_team_id": "31",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "253",
+      "guests_score": -1,
+      "guests_team_id": "16",
+      "home_score": -1,
+      "home_team_id": "10",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "254",
+      "guests_score": -1,
+      "guests_team_id": "25",
+      "home_score": -1,
+      "home_team_id": "17",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "255",
+      "guests_score": -1,
+      "guests_team_id": "28",
+      "home_score": -1,
+      "home_team_id": "18",
+      "is_tie_breaker": false,
+      "week_id": "17"
+    },
+    {
+      "game_id": "256",
+      "guests_score": -1,
+      "guests_team_id": "1",
+      "home_score": -1,
+      "home_team_id": "29",
+      "is_tie_breaker": true,
+      "week_id": "17"
+    }
+  ],
+  "picks": {
+    "B1HvtFX_u-": {
+      "away": "Los Angeles Chargers",
+      "game_id": "71",
+      "home": "New York Giants",
+      "is_tie_breaker": false,
+      "pick_id": "B1HvtFX_u-",
+      "point": 7,
+      "selected_team_id": "23",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "B1Q8D6fuOb": {
+      "away": "San Francisco 49ers",
+      "game_id": "69",
+      "home": "Indianapolis Colts",
+      "is_tie_breaker": false,
+      "pick_id": "B1Q8D6fuOb",
+      "point": 7,
+      "selected_team_id": "28",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "B1ewKYQuuW": {
+      "away": "Buffalo Bills",
+      "game_id": "66",
+      "home": "Cincinnati Bengals",
+      "is_tie_breaker": false,
+      "pick_id": "B1ewKYQuuW",
+      "point": 2,
+      "selected_team_id": "4",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "B1sDYKXOdZ": {
+      "away": "Kansas City Chiefs",
+      "game_id": "77",
+      "home": "Houston Texans",
+      "is_tie_breaker": false,
+      "pick_id": "B1sDYKXOdZ",
+      "point": 8,
+      "selected_team_id": "16",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "B1zuqsQOOZ": {
+      "away": "Carolina Panthers",
+      "game_id": "68",
+      "home": "Detroit Lions",
+      "is_tie_breaker": false,
+      "pick_id": "B1zuqsQOOZ",
+      "point": 1,
+      "selected_team_id": "11",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "BJGwKYQuu-": {
+      "away": "Carolina Panthers",
+      "game_id": "68",
+      "home": "Detroit Lions",
+      "is_tie_breaker": false,
+      "pick_id": "BJGwKYQuu-",
+      "point": 4,
+      "selected_team_id": "11",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "H1BO5jQdd-": {
+      "away": "Los Angeles Chargers",
+      "game_id": "71",
+      "home": "New York Giants",
+      "is_tie_breaker": false,
+      "pick_id": "H1BO5jQdd-",
+      "point": 10,
+      "selected_team_id": "23",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "HJPYtQuu-": {
+      "away": "New England Patriots",
+      "game_id": "65",
+      "home": "Tampa Bay Buccaneers",
+      "is_tie_breaker": false,
+      "pick_id": "HJPYtQuu-",
+      "point": 1,
+      "selected_team_id": "21",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "Hke_9smd_b": {
+      "away": "Buffalo Bills",
+      "game_id": "66",
+      "home": "Cincinnati Bengals",
+      "is_tie_breaker": false,
+      "pick_id": "Hke_9smd_b",
+      "point": 3,
+      "selected_team_id": "4",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "Hy3vKYQuO-": {
+      "away": "Minnesota Vikings",
+      "game_id": "78",
+      "home": "Chicago Bears",
+      "is_tie_breaker": true,
+      "pick_id": "Hy3vKYQuO-",
+      "point": 13,
+      "selected_team_id": "20",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "Hy5IvpMuOW": {
+      "away": "Green Bay Packers",
+      "game_id": "76",
+      "home": "Dallas Cowboys",
+      "is_tie_breaker": false,
+      "pick_id": "Hy5IvpMuOW",
+      "point": 2,
+      "selected_team_id": "12",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "HyDUPaMddZ": {
+      "away": "Jacksonville Jaguars",
+      "game_id": "73",
+      "home": "Pittsburgh Steelers",
+      "is_tie_breaker": false,
+      "pick_id": "HyDUPaMddZ",
+      "point": 6,
+      "selected_team_id": "27",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "HyoUP6zdd-": {
+      "away": "Kansas City Chiefs",
+      "game_id": "77",
+      "home": "Houston Texans",
+      "is_tie_breaker": false,
+      "pick_id": "HyoUP6zdd-",
+      "point": 4,
+      "selected_team_id": "16",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "Hyw_ci7u_-": {
+      "away": "Jacksonville Jaguars",
+      "game_id": "73",
+      "home": "Pittsburgh Steelers",
+      "is_tie_breaker": false,
+      "pick_id": "Hyw_ci7u_-",
+      "point": 14,
+      "selected_team_id": "27",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "S1Kd5j7d_W": {
+      "away": "Baltimore Ravens",
+      "game_id": "75",
+      "home": "Oakland Raiders",
+      "is_tie_breaker": false,
+      "pick_id": "S1Kd5j7d_W",
+      "point": 7,
+      "selected_team_id": "25",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SJ4LD6z_d-": {
+      "away": "Tennessee Titans",
+      "game_id": "70",
+      "home": "Miami Dolphins",
+      "is_tie_breaker": false,
+      "pick_id": "SJ4LD6z_d-",
+      "point": 9,
+      "selected_team_id": "31",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "SJ4_coXu_-": {
+      "away": "Tennessee Titans",
+      "game_id": "70",
+      "home": "Miami Dolphins",
+      "is_tie_breaker": false,
+      "pick_id": "SJ4_coXu_-",
+      "point": 6,
+      "selected_team_id": "31",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SJ7dco7uu-": {
+      "away": "San Francisco 49ers",
+      "game_id": "69",
+      "home": "Indianapolis Colts",
+      "is_tie_breaker": false,
+      "pick_id": "SJ7dco7uu-",
+      "point": 2,
+      "selected_team_id": "14",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SJBUvpGO_W": {
+      "away": "Los Angeles Chargers",
+      "game_id": "71",
+      "home": "New York Giants",
+      "is_tie_breaker": false,
+      "pick_id": "SJBUvpGO_W",
+      "point": 10,
+      "selected_team_id": "23",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "SJIwFtXOu-": {
+      "away": "Arizona Cardinals",
+      "game_id": "72",
+      "home": "Philadelphia Eagles",
+      "is_tie_breaker": false,
+      "pick_id": "SJIwFtXOu-",
+      "point": 9,
+      "selected_team_id": "26",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "SJODFFXOd-": {
+      "away": "Seattle Seahawks",
+      "game_id": "74",
+      "home": "Los Angeles Rams",
+      "is_tie_breaker": false,
+      "pick_id": "SJODFFXOd-",
+      "point": 10,
+      "selected_team_id": "29",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "SkZdqs7_OZ": {
+      "away": "New York Jets",
+      "game_id": "67",
+      "home": "Cleveland Browns",
+      "is_tie_breaker": false,
+      "pick_id": "SkZdqs7_OZ",
+      "point": 5,
+      "selected_team_id": "8",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SkqdcjQO_-": {
+      "away": "Green Bay Packers",
+      "game_id": "76",
+      "home": "Dallas Cowboys",
+      "is_tie_breaker": false,
+      "pick_id": "SkqdcjQO_-",
+      "point": 4,
+      "selected_team_id": "9",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "Sks_qjXd_Z": {
+      "away": "Kansas City Chiefs",
+      "game_id": "77",
+      "home": "Houston Texans",
+      "is_tie_breaker": false,
+      "pick_id": "Sks_qjXd_Z",
+      "point": 13,
+      "selected_team_id": "16",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SyfLwafud-": {
+      "away": "Carolina Panthers",
+      "game_id": "68",
+      "home": "Detroit Lions",
+      "is_tie_breaker": false,
+      "pick_id": "SyfLwafud-",
+      "point": 5,
+      "selected_team_id": "11",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "Syhu5iQOu-": {
+      "away": "Minnesota Vikings",
+      "game_id": "78",
+      "home": "Chicago Bears",
+      "is_tie_breaker": true,
+      "pick_id": "Syhu5iQOu-",
+      "point": 8,
+      "selected_team_id": "20",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "SywDKt7OdZ": {
+      "away": "Jacksonville Jaguars",
+      "game_id": "73",
+      "home": "Pittsburgh Steelers",
+      "is_tie_breaker": false,
+      "pick_id": "SywDKt7OdZ",
+      "point": 11,
+      "selected_team_id": "15",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "r1-IDpMu_-": {
+      "away": "New York Jets",
+      "game_id": "67",
+      "home": "Cleveland Browns",
+      "is_tie_breaker": false,
+      "pick_id": "r1-IDpMu_-",
+      "point": 13,
+      "selected_team_id": "24",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "r18PpMO_-": {
+      "away": "New England Patriots",
+      "game_id": "65",
+      "home": "Tampa Bay Buccaneers",
+      "is_tie_breaker": false,
+      "pick_id": "r18PpMO_-",
+      "point": 1,
+      "selected_team_id": "30",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "r1LIwpGudb": {
+      "away": "Arizona Cardinals",
+      "game_id": "72",
+      "home": "Philadelphia Eagles",
+      "is_tie_breaker": false,
+      "pick_id": "r1LIwpGudb",
+      "point": 11,
+      "selected_team_id": "1",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "r1Ld5jX_O-": {
+      "away": "Arizona Cardinals",
+      "game_id": "72",
+      "home": "Philadelphia Eagles",
+      "is_tie_breaker": false,
+      "pick_id": "r1Ld5jX_O-",
+      "point": 9,
+      "selected_team_id": "26",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "r1YvtYXOub": {
+      "away": "Baltimore Ravens",
+      "game_id": "75",
+      "home": "Oakland Raiders",
+      "is_tie_breaker": false,
+      "pick_id": "r1YvtYXOub",
+      "point": 14,
+      "selected_team_id": "25",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "r1gIDTGOub": {
+      "away": "Buffalo Bills",
+      "game_id": "66",
+      "home": "Cincinnati Bengals",
+      "is_tie_breaker": false,
+      "pick_id": "r1gIDTGOub",
+      "point": 3,
+      "selected_team_id": "7",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "r1uIP6MOu-": {
+      "away": "Seattle Seahawks",
+      "game_id": "74",
+      "home": "Los Angeles Rams",
+      "is_tie_breaker": false,
+      "pick_id": "r1uIP6MOu-",
+      "point": 12,
+      "selected_team_id": "29",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "rJVvtYmuuW": {
+      "away": "Tennessee Titans",
+      "game_id": "70",
+      "home": "Miami Dolphins",
+      "is_tie_breaker": false,
+      "pick_id": "rJVvtYmuuW",
+      "point": 6,
+      "selected_team_id": "31",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "rJZvtKQddb": {
+      "away": "New York Jets",
+      "game_id": "67",
+      "home": "Cleveland Browns",
+      "is_tie_breaker": false,
+      "pick_id": "rJZvtKQddb",
+      "point": 3,
+      "selected_team_id": "8",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "rJdu5sX_uZ": {
+      "away": "Seattle Seahawks",
+      "game_id": "74",
+      "home": "Los Angeles Rams",
+      "is_tie_breaker": false,
+      "pick_id": "rJdu5sX_uZ",
+      "point": 11,
+      "selected_team_id": "29",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "rJh8PTz_uZ": {
+      "away": "Minnesota Vikings",
+      "game_id": "78",
+      "home": "Chicago Bears",
+      "is_tie_breaker": true,
+      "pick_id": "rJh8PTz_uZ",
+      "point": 14,
+      "selected_team_id": "6",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "rk_5jmOd-": {
+      "away": "New England Patriots",
+      "game_id": "65",
+      "home": "Tampa Bay Buccaneers",
+      "is_tie_breaker": false,
+      "pick_id": "rk_5jmOd-",
+      "point": 12,
+      "selected_team_id": "30",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "rkmwtt7uO-": {
+      "away": "San Francisco 49ers",
+      "game_id": "69",
+      "home": "Indianapolis Colts",
+      "is_tie_breaker": false,
+      "pick_id": "rkmwtt7uO-",
+      "point": 5,
+      "selected_team_id": "28",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    },
+    "ryYIPazud-": {
+      "away": "Baltimore Ravens",
+      "game_id": "75",
+      "home": "Oakland Raiders",
+      "is_tie_breaker": false,
+      "pick_id": "ryYIPazud-",
+      "point": 8,
+      "selected_team_id": "25",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "ryqDFYX_O-": {
+      "away": "Green Bay Packers",
+      "game_id": "76",
+      "home": "Dallas Cowboys",
+      "is_tie_breaker": false,
+      "pick_id": "ryqDFYX_O-",
+      "point": 12,
+      "selected_team_id": "9",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    }
+  },
+  "seasons": [
+    null,
+    {
+      "begin_date": "2017-07-07",
+      "end_date": "2018-02-04",
+      "game_weeks": 17,
+      "season_id": "1"
+    }
+  ],
+  "teams": [
+    null,
+    {
+      "name": "Arizona Cardinals",
+      "team_id": "1"
+    },
+    {
+      "name": "Atlanta Falcons",
+      "team_id": "2"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "team_id": "3"
+    },
+    {
+      "name": "Buffalo Bills",
+      "team_id": "4"
+    },
+    {
+      "name": "Carolina Panthers",
+      "team_id": "5"
+    },
+    {
+      "name": "Chicago Bears",
+      "team_id": "6"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "team_id": "7"
+    },
+    {
+      "name": "Cleveland Browns",
+      "team_id": "8"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "team_id": "9"
+    },
+    {
+      "name": "Denver Broncos",
+      "team_id": "10"
+    },
+    {
+      "name": "Detroit Lions",
+      "team_id": "11"
+    },
+    {
+      "name": "Green Bay Packers",
+      "team_id": "12"
+    },
+    {
+      "name": "Houston Texans",
+      "team_id": "13"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "team_id": "14"
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "team_id": "15"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "team_id": "16"
+    },
+    {
+      "name": "Los Angeles Chargers",
+      "team_id": "17"
+    },
+    {
+      "name": "Los Angeles Rams",
+      "team_id": "18"
+    },
+    {
+      "name": "Miami Dolphins",
+      "team_id": "19"
+    },
+    {
+      "name": "Minnesota Vikings",
+      "team_id": "20"
+    },
+    {
+      "name": "New England Patriots",
+      "team_id": "21"
+    },
+    {
+      "name": "New Orleans Saints",
+      "team_id": "22"
+    },
+    {
+      "name": "New York Giants",
+      "team_id": "23"
+    },
+    {
+      "name": "New York Jets",
+      "team_id": "24"
+    },
+    {
+      "name": "Oakland Raiders",
+      "team_id": "25"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "team_id": "26"
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "team_id": "27"
+    },
+    {
+      "name": "San Francisco 49ers",
+      "team_id": "28"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "team_id": "29"
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "team_id": "30"
+    },
+    {
+      "name": "Tennessee Titans",
+      "team_id": "31"
+    },
+    {
+      "name": "Washington Redskins",
+      "team_id": "32"
+    }
+  ],
+  "ticks": {
+    "-Ks2h6da-1O44RCYIhtN": {
+      "datetime": "2017-08-21T07:31:53.061Z"
+    },
+    "-Ks2txv8OTQQxiqXjT85": {
+      "datetime": "2017-08-21T08:28:02.794Z"
+    },
+    "-Ks36gfdV4hfaJl9eSD5": {
+      "datetime": "2017-08-21T09:28:02.187Z"
+    }
+  },
+  "tiebreaks": {
+    "Bkp_qomOOW": {
+      "game_id": "78",
+      "score": 566,
+      "tiebreak_id": "Bkp_qomOOW",
+      "user_id": "BJUs5QddZ",
+      "week_id": "5"
+    },
+    "H1TIw6G_uW": {
+      "game_id": "78",
+      "score": 100,
+      "tiebreak_id": "H1TIw6G_uW",
+      "user_id": "B1zG3zOO-",
+      "week_id": "5"
+    },
+    "Hk6DFtmuuZ": {
+      "game_id": "78",
+      "score": 55,
+      "tiebreak_id": "Hk6DFtmuuZ",
+      "user_id": "r138G7_O-",
+      "week_id": "5"
+    }
+  },
+  "users": {
+    "id00001": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Robinson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00001"
+    },
+    "id00002": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Emily Thompson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00002"
+    },
+    "id00003": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Emily Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00003"
+    },
+    "id00004": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Smith",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00004"
+    },
+    "id00005": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00005"
+    },
+    "id00006": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Lily Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00006"
+    },
+    "id00007": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jack Lee",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00007"
+    },
+    "id00008": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Oliver Jones",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00008"
+    },
+    "id00009": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jacob Garcia",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00009"
+    },
+    "id00010": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Matthew Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00010"
+    },
+    "id00011": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Lee",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00011"
+    },
+    "id00012": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Alfie Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00012"
+    },
+    "id00013": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00013"
+    },
+    "id00014": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jack Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00014"
+    },
+    "id00015": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Charlie Clark",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00015"
+    },
+    "id00016": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Matthew Harris",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00016"
+    },
+    "id00017": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Alfie Garcia",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00017"
+    },
+    "id00018": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Smith",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00018"
+    },
+    "id00019": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Isabella Harris",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00019"
+    },
+    "id00020": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Riley Brown",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00020"
+    },
+    "id00021": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Emily Clark",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00021"
+    },
+    "id00022": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Alfie Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00022"
+    },
+    "id00023": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Michael White",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00023"
+    },
+    "id00024": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jack Clark",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00024"
+    },
+    "id00025": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Lee",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00025"
+    },
+    "id00026": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Martin",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00026"
+    },
+    "id00027": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Robinson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00027"
+    },
+    "id00028": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00028"
+    },
+    "id00029": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00029"
+    },
+    "id00030": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jessica Johnson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00030"
+    },
+    "id00031": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Lee",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00031"
+    },
+    "id00032": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Martin",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00032"
+    },
+    "id00033": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Michael Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00033"
+    },
+    "id00034": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00034"
+    },
+    "id00035": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jessica Johnson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00035"
+    },
+    "id00036": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Sophie Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00036"
+    },
+    "id00037": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Oliver Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00037"
+    },
+    "id00038": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Thomas Robinson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00038"
+    },
+    "id00039": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Isabella Williams",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00039"
+    },
+    "id00040": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Matthew Wilson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00040"
+    },
+    "id00041": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Williams",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00041"
+    },
+    "id00042": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Rodriguez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00042"
+    },
+    "id00043": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Williams",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00043"
+    },
+    "id00044": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "James Anderson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00044"
+    },
+    "id00045": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Isabella Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00045"
+    },
+    "id00046": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jessica Rodriguez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00046"
+    },
+    "id00047": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Charlie Brown",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00047"
+    },
+    "id00048": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Harris",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00048"
+    },
+    "id00049": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Emily Anderson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00049"
+    },
+    "id00050": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Riley Williams",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00050"
+    },
+    "id00051": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Alfie Clark",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00051"
+    },
+    "id00052": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Clark",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00052"
+    },
+    "id00053": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Jones",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00053"
+    },
+    "id00054": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob White",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00054"
+    },
+    "id00055": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Anderson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00055"
+    },
+    "id00056": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jessica Anderson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00056"
+    },
+    "id00057": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Harry Johnson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00057"
+    },
+    "id00058": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Oliver Smith",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00058"
+    },
+    "id00059": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00059"
+    },
+    "id00060": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Sophie Rodriguez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00060"
+    },
+    "id00061": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Jackson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00061"
+    },
+    "id00062": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Amelia Robinson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00062"
+    },
+    "id00063": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Thompson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00063"
+    },
+    "id00064": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Sophie Brown",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00064"
+    },
+    "id00065": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Mia White",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00065"
+    },
+    "id00066": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00066"
+    },
+    "id00067": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00067"
+    },
+    "id00068": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua White",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00068"
+    },
+    "id00069": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jack Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00069"
+    },
+    "id00070": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Jackson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00070"
+    },
+    "id00071": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Martinez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00071"
+    },
+    "id00072": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00072"
+    },
+    "id00073": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Harry Garcia",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00073"
+    },
+    "id00074": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Sophie Jackson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00074"
+    },
+    "id00075": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Charlie Moore",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00075"
+    },
+    "id00076": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Lily Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00076"
+    },
+    "id00077": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Taylor",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00077"
+    },
+    "id00078": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Isabella Martinez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00078"
+    },
+    "id00079": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jacob Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00079"
+    },
+    "id00080": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jack Harris",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00080"
+    },
+    "id00081": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Lily Jackson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00081"
+    },
+    "id00082": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Lewis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00082"
+    },
+    "id00083": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Thomas Rodriguez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00083"
+    },
+    "id00084": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Jones",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00084"
+    },
+    "id00085": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Olivia Martinez",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00085"
+    },
+    "id00086": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Lily Johnson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00086"
+    },
+    "id00087": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Olivia Smith",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00087"
+    },
+    "id00088": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Oliver Johnson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00088"
+    },
+    "id00089": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "James Brown",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00089"
+    },
+    "id00090": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Jessica Harris",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00090"
+    },
+    "id00091": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Riley Wilson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00091"
+    },
+    "id00092": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Williams",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00092"
+    },
+    "id00093": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Alfie Robinson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00093"
+    },
+    "id00094": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Bob Lee",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00094"
+    },
+    "id00095": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Ava Anderson",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00095"
+    },
+    "id00096": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Miller",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00096"
+    },
+    "id00097": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "William Smith",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00097"
+    },
+    "id00098": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Oliver White",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00098"
+    },
+    "id00099": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Joshua Garcia",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00099"
+    },
+    "id00100": {
+      "auth_id": "autId",
+      "email": "exampleMail@gmail.com",
+      "name": "Sophie Davis",
+      "profile_photo": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+      "role": "user",
+      "user_id": "id00100"
+    }
+  },
+  "weeks": [
+    null,
+    {
+      "begin_date": "2017-07-27T00:00:01-05:00",
+      "end_date": "2017-07-31T23:59:59-05:00",
+      "freezing_date_time": "2017-07-26T23:59:59-05:00",
+      "season_id": "1",
+      "week_id": "1",
+      "week_number": 1
+    },
+    {
+      "begin_date": "2017-08-03T00:00:01-04:00",
+      "end_date": "2017-08-06T23:59:59-04:00",
+      "freezing_date_time": "2017-08-02T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "2",
+      "week_number": 2
+    },
+    {
+      "begin_date": "2017-08-10T00:00:01-04:00",
+      "end_date": "2017-08-14T23:59:59-04:00",
+      "freezing_date_time": "2017-08-09T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "3",
+      "week_number": 3
+    },
+    {
+      "begin_date": "2017-08-17T00:00:01-04:00",
+      "end_date": "2017-08-20T23:59:59-04:00",
+      "freezing_date_time": "2017-08-16T23:59:58-04:00",
+      "season_id": "1",
+      "week_id": "4",
+      "week_number": 4
+    },
+    {
+      "begin_date": "2017-08-23T00:00:01-04:00",
+      "end_date": "2017-08-25T23:59:59-04:00",
+      "freezing_date_time": "2017-08-21T05:50:59-04:00",
+      "season_id": "1",
+      "week_id": "5",
+      "week_number": 5
+    },
+    {
+      "begin_date": "2017-08-31T00:00:01-04:00",
+      "end_date": "2017-09-04T23:59:59-04:00",
+      "freezing_date_time": "2017-08-30T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "6",
+      "week_number": 6
+    },
+    {
+      "begin_date": "2017-09-07T00:00:01-04:00",
+      "end_date": "2017-09-11T23:59:59-04:00",
+      "freezing_date_time": "2017-09-06T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "7",
+      "week_number": 7
+    },
+    {
+      "begin_date": "2017-09-14T00:00:01-04:00",
+      "end_date": "2017-09-18T23:59:59-04:00",
+      "freezing_date_time": "2017-09-13T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "8",
+      "week_number": 8
+    },
+    {
+      "begin_date": "2017-09-21T00:00:01-04:00",
+      "end_date": "2017-09-25T23:59:59-04:00",
+      "freezing_date_time": "2017-09-20T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "9",
+      "week_number": 9
+    },
+    {
+      "begin_date": "2017-09-28T00:00:01-04:00",
+      "end_date": "2017-10-02T23:59:59-04:00",
+      "freezing_date_time": "2017-09-27T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "10",
+      "week_number": 10
+    },
+    {
+      "begin_date": "2017-10-05T00:00:01-04:00",
+      "end_date": "2017-10-09T23:59:59-04:00",
+      "freezing_date_time": "2017-10-04T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "11",
+      "week_number": 11
+    },
+    {
+      "begin_date": "2017-10-12T00:00:01-04:00",
+      "end_date": "2017-10-16T23:59:59-04:00",
+      "freezing_date_time": "2017-10-11T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "12",
+      "week_number": 12
+    },
+    {
+      "begin_date": "2017-10-19T00:00:01-04:00",
+      "end_date": "2017-10-23T23:59:59-04:00",
+      "freezing_date_time": "2017-10-18T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "13",
+      "week_number": 13
+    },
+    {
+      "begin_date": "2017-10-26T00:00:01-04:00",
+      "end_date": "2017-10-30T23:59:59-04:00",
+      "freezing_date_time": "2017-10-25T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "14",
+      "week_number": 14
+    },
+    {
+      "begin_date": "2017-11-02T00:00:01-04:00",
+      "end_date": "2017-11-06T23:59:59-04:00",
+      "freezing_date_time": "2017-11-01T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "15",
+      "week_number": 15
+    },
+    {
+      "begin_date": "2017-11-11T00:00:01-04:00",
+      "end_date": "2017-11-13T23:59:59-04:00",
+      "freezing_date_time": "2017-11-10T23:59:59-04:00",
+      "season_id": "1",
+      "week_id": "16",
+      "week_number": 16
+    },
+    {
+      "begin_date": "2017-11-19T00:00:01-05:00",
+      "end_date": "2017-11-19T23:59:59-05:00",
+      "freezing_date_time": "2017-11-18T23:59:59-05:00",
+      "season_id": "1",
+      "week_id": "17",
+      "week_number": 17
+    }
+  ]
+}

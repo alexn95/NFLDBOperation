@@ -1,0 +1,139 @@
+[
+  null,
+  {
+    "begin_date": "2017-08-31T00:00:01-04:00",
+    "end_date": "2017-09-04T23:59:59-04:00",
+    "freezing_date_time": "2017-08-30T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "1",
+    "week_number": 1
+  },
+  {
+    "begin_date": "2017-09-07T00:00:01-04:00",
+    "end_date": "2017-09-10T23:59:59-04:00",
+    "freezing_date_time": "2017-09-06T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "2",
+    "week_number": 2
+  },
+  {
+    "begin_date": "2017-09-14T00:00:01-04:00",
+    "end_date": "2017-09-18T23:59:59-04:00",
+    "freezing_date_time": "2017-09-13T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "3",
+    "week_number": 3
+  },
+  {
+    "begin_date": "2017-09-21T00:00:01-04:00",
+    "end_date": "2017-09-24T23:59:59-04:00",
+    "freezing_date_time": "2017-09-20T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "4",
+    "week_number": 4
+  },
+  {
+    "begin_date": "2017-09-27T00:00:01-04:00",
+    "end_date": "2017-09-29T23:59:59-04:00",
+    "freezing_date_time": "2017-09-26T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "5",
+    "week_number": 5
+  },
+  {
+    "begin_date": "2017-10-05T00:00:01-04:00",
+    "end_date": "2017-10-09T23:59:59-04:00",
+    "freezing_date_time": "2017-10-04T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "6",
+    "week_number": 6
+  },
+  {
+    "begin_date": "2017-10-12T00:00:01-04:00",
+    "end_date": "2017-10-16T23:59:59-04:00",
+    "freezing_date_time": "2017-10-11T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "7",
+    "week_number": 7
+  },
+  {
+    "begin_date": "2017-10-19T00:00:01-04:00",
+    "end_date": "2017-10-23T23:59:59-04:00",
+    "freezing_date_time": "2017-10-18T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "8",
+    "week_number": 8
+  },
+  {
+    "begin_date": "2017-10-26T00:00:01-04:00",
+    "end_date": "2017-10-30T23:59:59-04:00",
+    "freezing_date_time": "2017-10-25T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "9",
+    "week_number": 9
+  },
+  {
+    "begin_date": "2017-11-02T00:00:01-04:00",
+    "end_date": "2017-11-06T23:59:59-05:00",
+    "freezing_date_time": "2017-11-01T23:59:59-04:00",
+    "season_id": "1",
+    "week_id": "10",
+    "week_number": 10
+  },
+  {
+    "begin_date": "2017-11-09T00:00:01-05:00",
+    "end_date": "2017-11-13T23:59:59-05:00",
+    "freezing_date_time": "2017-11-08T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "11",
+    "week_number": 11
+  },
+  {
+    "begin_date": "2017-11-16T00:00:01-05:00",
+    "end_date": "2017-11-20T23:59:59-05:00",
+    "freezing_date_time": "2017-11-15T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "12",
+    "week_number": 12
+  },
+  {
+    "begin_date": "2017-11-23T00:00:01-05:00",
+    "end_date": "2017-11-27T23:59:59-05:00",
+    "freezing_date_time": "2017-11-22T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "13",
+    "week_number": 13
+  },
+  {
+    "begin_date": "2017-11-30T00:00:01-05:00",
+    "end_date": "2017-12-04T23:59:59-05:00",
+    "freezing_date_time": "2017-11-29T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "14",
+    "week_number": 14
+  },
+  {
+    "begin_date": "2017-12-07T00:00:01-05:00",
+    "end_date": "2017-12-11T23:59:59-05:00",
+    "freezing_date_time": "2017-12-06T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "15",
+    "week_number": 15
+  },
+  {
+    "begin_date": "2017-12-16T00:00:01-05:00",
+    "end_date": "2017-12-18T23:59:59-05:00",
+    "freezing_date_time": "2017-12-15T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "16",
+    "week_number": 16
+  },
+  {
+    "begin_date": "2017-12-24T00:00:01-05:00",
+    "end_date": "2017-12-24T23:59:59-05:00",
+    "freezing_date_time": "2017-12-23T23:59:59-05:00",
+    "season_id": "1",
+    "week_id": "17",
+    "week_number": 17
+  }
+]
